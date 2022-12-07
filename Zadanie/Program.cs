@@ -18,4 +18,4 @@ for (int i = 0; i < strings.Length; i++)
     }
 }
 
-Console.WriteLine(string.Join(" ", strings2));
+Console.WriteLine(string.Join(" ", strings2)); //проверка содержания массива
