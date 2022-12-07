@@ -7,7 +7,7 @@
 // [“Russia”, “Denmark”, “Kazan”] → []
 
 string[] strings = new string[] { "Hello", "2", "world", ":-)", "1234", "1567", "-2", "computer science", "Russia", "Denmark", "Kazan" };
-string[] strings2 = new string[11]; //Любой размер
+string[] strings2 = new string[11]; 
 int j = 0;
 for (int i = 0; i < strings.Length; i++)
 {
