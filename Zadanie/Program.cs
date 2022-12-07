@@ -6,8 +6,8 @@
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
 
-string[] strings = new string[] { "Hello", "2", "world", ":-)", "1234", "1567", "-2", "computer science", "Russia", "Denmark", "Kazan" };
-string[] strings2 = new string[11]; 
+string[] strings = new string[] { "Hello", "2", "world", ":-)", "1234", "1567", "-2", "computer science", "Russia", "Denmark", "Kazan", "Рим"};
+string[] strings2 = new string[12]; 
 int j = 0;
 for (int i = 0; i < strings.Length; i++)
 {
