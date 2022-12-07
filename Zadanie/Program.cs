@@ -17,4 +17,5 @@ for (int i = 0; i < strings.Length; i++)
         j++;     
     }
 }
+
 Console.WriteLine(string.Join(" ", strings2));
